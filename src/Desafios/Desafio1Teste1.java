@@ -15,7 +15,7 @@ public class Desafio1Teste1 {
 
         //TODO: Complete o If com a condição que soluciona o problema.
         if (soma > min)
-            System.out.println("Deixa para amanha!");
+            System.out.println("Deixa para amanhã!");
         else
             System.out.println("Farei hoje!");
     }

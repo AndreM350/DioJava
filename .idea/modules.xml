@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaDioGeral.iml" filepath="$PROJECT_DIR$/JavaDioGeral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaWiki/JavaWiki.iml" filepath="$PROJECT_DIR$/../JavaWiki/JavaWiki.iml" />
     </modules>
   </component>
 </project>
